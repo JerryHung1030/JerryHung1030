@@ -1,0 +1,104 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'  # 每 3 小時運行一次
+  workflow_dispatch:       # 允許手動觸發
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. 檢出 repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # 2. 生成 Isometric Commit Calendar（半年度版本）
+      - name: Generate Isometric Commit Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+
+      # 3. 生成 Music Plugin 圖片 - Spotify 最近播放
+      - name: Generate Music Plugin - Recently Listened
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.music.recent.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_mode: recent
+          plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
+          plugin_music_limit: 5
+
+      # 4. 生成 Terminal Template 圖片
+      - name: Generate Terminal Template
+        uses: lowlighter/metrics@latest
+        with:
+          template: terminal
+          filename: metrics.terminal.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, metadata
+
+      # 5. 生成 Recent Activity 圖表
+      - name: Generate Recent Activity Chart
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+
+      # 6. 生成 News 圖表
+      - name: News from hackernews
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.rss.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_rss: yes
+          plugin_rss_source: https://news.ycombinator.com/rss
+          plugin_rss_limit: 4
+
+      # 7. 生成 Stock prices 圖表
+      - name: Stock prices from TSM
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stock.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_stock: yes
+          plugin_stock_token: ${{ secrets.STOCK_TOKEN }}
+          plugin_stock_symbol: TSM
+
+      # 8. 生成 Crypto prices 圖表
+      - name: Crypto Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.crypto.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_crypto: yes
+          plugin_crypto_id: bitcoin
+          plugin_crypto_vs_currency: usd
+          plugin_crypto_days: 1
+          plugin_crypto_precision: 2
+
+      # 9. 複製產生的 SVG 檔案並 commit
+      - name: Copy and Commit Metrics
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          cp -v /metrics_renders/*.svg .
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add .
+          git commit --allow-empty -m "Update metrics [skip ci]" || echo "No changes to commit"
+          git push --force https://${METRICS_TOKEN}@github.com/JerryHung1030/JerryHung1030.git

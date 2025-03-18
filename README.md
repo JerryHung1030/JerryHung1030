@@ -9,30 +9,46 @@ I'm a passionate developer focused on building robust and secure systems. With e
 
 ---
 
-## 🔹 Overview
+## 📊 GitHub Metrics (Public Repos Only)
 
-| **Commit Calendar**                                                                                                     | **Terminal Template**                                                                                                           |
-| :---------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://raw.githubusercontent.com/JerryHung1030/JerryHung1030/main/metrics.plugin.isocalendar.svg" width="300" alt="Commit Calendar" /> | <img src="https://raw.githubusercontent.com/JerryHung1030/JerryHung1030/main/metrics.terminal.svg" width="300" alt="Terminal Template" /> |
+<div align="left">
+  <!-- 兩張圖並列，同一寬度 -->
+  <img src="https://raw.githubusercontent.com/JerryHung1030/JerryHung1030/main/metrics.terminal.svg" 
+       alt="Terminal Template" 
+       width="300" 
+       style="vertical-align: top;" />
+  <img src="https://raw.githubusercontent.com/JerryHung1030/JerryHung1030/main/metrics.plugin.isocalendar.svg" 
+       alt="Commit Calendar" 
+       width="350" 
+       style="vertical-align: top; margin-right: 10px;" />
+</div>
 
-| **Spotify Recently Listened**                                                                                           | **Stock Prices (TSM)**                                                                                                          |
-| :---------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://raw.githubusercontent.com/JerryHung1030/JerryHung1030/main/metrics.plugin.music.recent.svg" width="300" alt="Spotify Recently Listened" /> | <img src="https://raw.githubusercontent.com/JerryHung1030/JerryHung1030/main/metrics.plugin.stock.svg" width="300" alt="TSM Stock Prices" /> |
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JerryHung1030&layout=compact&langs_count=20&exclude_repo=Reinforcement-learning-with-virtual-simulation&theme=dark"
+       alt="Top Languages" 
+       height="150"
+       style="vertical-align: top; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JerryHung1030&theme=dark&show_icons=true"
+       alt="GitHub Stats"
+       height="150"
+       style="vertical-align: top;" />
+</div>
 
-| **Hacker News RSS**                                                                                                     | **My GitHub Stats**                                                                                                             |
-| :---------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://raw.githubusercontent.com/JerryHung1030/JerryHung1030/main/metrics.plugin.rss.svg" width="300" alt="Hacker News RSS" /> | <div>
-    <img 
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=JerryHung1030&layout=compact&langs_count=20&exclude_repo=Reinforcement-learning-with-virtual-simulation&theme=dark" 
-         alt="Top Languages" 
-         height="195" 
-         style="vertical-align: top;"/>
-    <img 
-         src="https://github-readme-stats.vercel.app/api?username=JerryHung1030&theme=dark&show_icons=true" 
-         alt="GitHub Stats" 
-         height="195" 
-         style="vertical-align: top;"/>
-</div> |
+---
+
+## 📰 Music And News
+
+<div align="left">
+  <!-- 兩張圖並列，同一寬度 -->
+  <img src="https://raw.githubusercontent.com/JerryHung1030/JerryHung1030/main/metrics.plugin.music.recent.svg" 
+       alt="Spotify Recently Listened" 
+       width="300" 
+       style="vertical-align: top; margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/JerryHung1030/JerryHung1030/main/metrics.plugin.rss.svg" 
+       alt="Hacker News RSS" 
+       width="300" 
+       style="vertical-align: top;" />
+</div>
 
 ---
 

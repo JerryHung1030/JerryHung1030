@@ -36,20 +36,4 @@ I'm a passionate developer focused on building robust and secure systems. With e
 
 ---
 
-## 📰 Music And News
-
-<div align="left">
-  <!-- 兩張圖並列，同一寬度 -->
-  <img src="https://raw.githubusercontent.com/JerryHung1030/JerryHung1030/main/metrics.plugin.music.recent.svg" 
-       alt="Spotify Recently Listened" 
-       width="300" 
-       style="vertical-align: top; margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/JerryHung1030/JerryHung1030/main/metrics.plugin.rss.svg" 
-       alt="Hacker News RSS" 
-       width="300" 
-       style="vertical-align: top;" />
-</div>
-
----
-
 <sub>Infographics generated using [lowlighter/metrics](https://github.com/lowlighter/metrics) and [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)</sub>

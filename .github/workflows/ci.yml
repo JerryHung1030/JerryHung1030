@@ -47,15 +47,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, metadata
 
-      # 5. 生成 Recent Activity 圖表
-      - name: Generate Recent Activity Chart
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_activity: yes
-
       # 6. 生成 News 圖表
       - name: News from hackernews
         uses: lowlighter/metrics@latest
@@ -77,19 +68,6 @@ jobs:
           plugin_stock: yes
           plugin_stock_token: ${{ secrets.STOCK_TOKEN }}
           plugin_stock_symbol: TSM
-
-      # 8. 生成 Crypto prices 圖表
-      - name: Crypto Metrics
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.crypto.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_crypto: yes
-          plugin_crypto_id: bitcoin
-          plugin_crypto_vs_currency: usd
-          plugin_crypto_days: 1
-          plugin_crypto_precision: 2
 
       # 9. 複製產生的 SVG 檔案並 commit
       - name: Copy and Commit Metrics

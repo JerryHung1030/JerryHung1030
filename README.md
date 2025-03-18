@@ -9,33 +9,31 @@ I'm a passionate developer focused on building robust and secure systems. With e
 
 ---
 
-## 📊 GitHub Metrics
+## 🔹 Overview
 
-[<img align="left" width="390" alt="Commit Calendar" src="https://raw.githubusercontent.com/JerryHung1030/JerryHung1030/main/metrics.plugin.isocalendar.svg">](#)
-[<img align="right" width="390" alt="Terminal Template" src="https://raw.githubusercontent.com/JerryHung1030/JerryHung1030/main/metrics.terminal.svg">](#)
+| **Commit Calendar**                                                                                                     | **Terminal Template**                                                                                                           |
+| :---------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://raw.githubusercontent.com/JerryHung1030/JerryHung1030/main/metrics.plugin.isocalendar.svg" width="300" alt="Commit Calendar" /> | <img src="https://raw.githubusercontent.com/JerryHung1030/JerryHung1030/main/metrics.terminal.svg" width="300" alt="Terminal Template" /> |
 
-[<img align="left" width="390" alt="Spotify Recently Listened" src="https://raw.githubusercontent.com/JerryHung1030/JerryHung1030/main/metrics.plugin.music.recent.svg">](#)
+| **Spotify Recently Listened**                                                                                           | **Stock Prices (TSM)**                                                                                                          |
+| :---------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://raw.githubusercontent.com/JerryHung1030/JerryHung1030/main/metrics.plugin.music.recent.svg" width="300" alt="Spotify Recently Listened" /> | <img src="https://raw.githubusercontent.com/JerryHung1030/JerryHung1030/main/metrics.plugin.stock.svg" width="300" alt="TSM Stock Prices" /> |
 
----
-
-## 📈 Financial Metrics
-
-[<img align="left" width="390" alt="Stock prices from TSM" src="https://raw.githubusercontent.com/JerryHung1030/JerryHung1030/main/metrics.plugin.stock.svg">](#)
-
----
-
-## 📰 Latest Tech News
-
-[<img align="center" width="390" alt="Hacker News RSS" src="https://raw.githubusercontent.com/JerryHung1030/JerryHung1030/main/metrics.plugin.rss.svg">](#)
-
----
-
-## 📊 My GitHub Stats (only from public repo)
-
-[![My langs stats](https://github-readme-stats.vercel.app/api/top-langs?username=JerryHung1030&langs_count=20&exclude_repo=Reinforcement-learning-with-virtual-simulation&theme=dark)](https://github.com/JerryHung1030)
-
-[![My stats](https://github-readme-stats.vercel.app/api?username=JerryHung1030&theme=dark&show_icons=true)](https://github.com/JerryHung1030)
+| **Hacker News RSS**                                                                                                     | **My GitHub Stats**                                                                                                             |
+| :---------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://raw.githubusercontent.com/JerryHung1030/JerryHung1030/main/metrics.plugin.rss.svg" width="300" alt="Hacker News RSS" /> | <div>
+    <img 
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=JerryHung1030&layout=compact&langs_count=20&exclude_repo=Reinforcement-learning-with-virtual-simulation&theme=dark" 
+         alt="Top Languages" 
+         height="195" 
+         style="vertical-align: top;"/>
+    <img 
+         src="https://github-readme-stats.vercel.app/api?username=JerryHung1030&theme=dark&show_icons=true" 
+         alt="GitHub Stats" 
+         height="195" 
+         style="vertical-align: top;"/>
+</div> |
 
 ---
 
-<sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics) and [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)</sub>
+<sub>Infographics generated using [lowlighter/metrics](https://github.com/lowlighter/metrics) and [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)</sub>

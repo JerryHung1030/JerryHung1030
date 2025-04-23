@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sapphire: Rust based package manager for macOS (Homebrew replacement)</div>
-                                <div class="date">22 Apr 2025</div>
+                                <div class="title">Projects for Old OS X</div>
+                                <div class="date">23 Apr 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Making a smart bike dumb so it works again</div>
+                                <div class="title">Solidjs: Simple and performant reactivity for building user interfaces</div>
                                 <div class="date">19 Apr 2025</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How long does it take to create a new habit? (2015)</div>
+                                <div class="title">Sapphire: Rust based package manager for macOS (Homebrew replacement)</div>
                                 <div class="date">22 Apr 2025</div>
                             </div>
                         </div>

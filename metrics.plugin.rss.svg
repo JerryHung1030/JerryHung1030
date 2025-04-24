@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Teaching LLMs how to solid model</div>
+                                <div class="title">CubeCL: GPU Kernels in Rust for CUDA, ROCm, and WGPU</div>
                                 <div class="date">23 Apr 2025</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google blocked Motorola use of Perplexity AI, witness says</div>
+                                <div class="title">Yagri: You are gonna read it</div>
                                 <div class="date">23 Apr 2025</div>
                             </div>
                         </div>

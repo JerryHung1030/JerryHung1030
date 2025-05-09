@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Formal Analysis of Apple's iMessage PQ3 Protocol [pdf]</div>
+                                <div class="title">Starlink User Terminal Teardown</div>
                                 <div class="date">9 May 2025</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Fui: C library for interacting with the framebuffer in a TTY context</div>
-                                <div class="date">8 May 2025</div>
+                                <div class="title">LegoGPT: Generating Physically Stable and Buildable Lego</div>
+                                <div class="date">9 May 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Reservoir Sampling</div>
-                                <div class="date">8 May 2025</div>
+                                <div class="title">A Formal Analysis of Apple's iMessage PQ3 Protocol [pdf]</div>
+                                <div class="date">9 May 2025</div>
                             </div>
                         </div>
                     </section>

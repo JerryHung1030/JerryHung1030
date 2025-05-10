@@ -20,16 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">US vs. Google Amicus Curiae Brief of Y Combinator in Support of Plaintiffs [pdf]</div>
-                                <div class="date">10 May 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Reverse engineering the 386 processor's prefetch queue circuitry</div>
+                                <div class="title">US vs. Google amicus curiae brief of Y Combinator in support of plaintiffs [pdf]</div>
                                 <div class="date">10 May 2025</div>
                             </div>
                         </div>
@@ -47,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Prolog's Eternal September (2017)</div>
-                                <div class="date">8 May 2025</div>
+                                <div class="title">Reverse engineering the 386 processor's prefetch queue circuitry</div>
+                                <div class="date">10 May 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">For $595, you get what nobody else can give you for twice the price (1982) [pdf]</div>
+                                <div class="date">10 May 2025</div>
                             </div>
                         </div>
                     </section>

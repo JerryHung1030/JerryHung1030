@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Plain Vanilla Web</div>
-                                <div class="date">11 May 2025</div>
+                                <div class="title">I ruined my vacation by reverse engineering WSC</div>
+                                <div class="date">12 May 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Academic Pipeline Stall: Why Industry Must Stand for Academia</div>
-                                <div class="date">12 May 2025</div>
+                                <div class="title">Plain Vanilla Web</div>
+                                <div class="date">11 May 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I ruined my vacation by reverse engineering WSC</div>
+                                <div class="title">Intellect-2 Release: The First 32B Model Trained Through Globally Distributed RL</div>
                                 <div class="date">12 May 2025</div>
                             </div>
                         </div>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="182" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="183" class="">
     <defs>
         <style/>
     </defs>
@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Launch HN: Tinfoil (YC X25): Verifiable Privacy for Cloud AI</div>
+                                <div class="title">Baby is healed with first personalized gene-editing treatment</div>
                                 <div class="date">15 May 2025</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Tiny Boltzmann Machine</div>
+                                <div class="title">The Unreasonable Effectiveness of an LLM Agent Loop with Tool Use</div>
                                 <div class="date">15 May 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Min.js style compression of tech docs for LLM context</div>
+                                <div class="title">Tek – a music making program for 24-bit Unicode terminals</div>
                                 <div class="date">15 May 2025</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ports that are blocked by browsers</div>
-                                <div class="date">13 May 2025</div>
+                                <div class="title">The current state of TLA⁺ development</div>
+                                <div class="date">15 May 2025</div>
                             </div>
                         </div>
                     </section>

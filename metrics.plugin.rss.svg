@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code</div>
+                                <div class="title">JEP 519: Compact Object Headers</div>
                                 <div class="date">22 May 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Getting a paper accepted</div>
+                                <div class="title">Why does Debian change software?</div>
                                 <div class="date">22 May 2025</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">For algorithms, a little memory outweighs a lot of time</div>
-                                <div class="date">21 May 2025</div>
+                                <div class="title">Decibels Are Ridiculous</div>
+                                <div class="date">22 May 2025</div>
                             </div>
                         </div>
                     </section>

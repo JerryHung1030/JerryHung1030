@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Art of Lisp and Writing</div>
+                                <div class="title">Canyon.mid</div>
                                 <div class="date">15 Jun 2025</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ruby on Rails Audit Complete</div>
-                                <div class="date">12 Jun 2025</div>
+                                <div class="title">How to modify Starlink Mini to run without the built-in WiFi router</div>
+                                <div class="date">15 Jun 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Q-learning is not yet scalable</div>
+                                <div class="title">Show HN: Meow – An Image File Format I made because PNGs and JPEGs suck for AI</div>
                                 <div class="date">15 Jun 2025</div>
                             </div>
                         </div>

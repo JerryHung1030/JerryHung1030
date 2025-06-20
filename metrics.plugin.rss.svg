@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How would a passing gravitational wave look or feel?</div>
+                                <div class="title">Oklo, the Earth's Two-billion-year-old only Known Natural Nuclear Reactor</div>
                                 <div class="date">20 Jun 2025</div>
                             </div>
                         </div>
@@ -29,7 +29,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Learn Makefiles</div>
+                                <div class="title">Wanted: New Instruments to Fund BBNs</div>
+                                <div class="date">20 Jun 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Show HN: SnapQL – Desktop app to query Postgres with AI</div>
                                 <div class="date">20 Jun 2025</div>
                             </div>
                         </div>
@@ -40,15 +49,6 @@
                             <div class="infos">
                                 <div class="title">Hurl: Run and test HTTP requests with plain text</div>
                                 <div class="date">20 Jun 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Chimpanzees yawn when observing an Android yawn</div>
-                                <div class="date">17 Jun 2025</div>
                             </div>
                         </div>
                     </section>

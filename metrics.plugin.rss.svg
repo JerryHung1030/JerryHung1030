@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Xfinity using WiFi signals in your house to detect motion</div>
+                                <div class="title">I write type-safe generic data structures in C</div>
                                 <div class="date">30 Jun 2025</div>
                             </div>
                         </div>
@@ -29,16 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Rust CLIs with Clap</div>
-                                <div class="date">1 Jul 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">I write type-safe generic data structures in C</div>
+                                <div class="title">There are no new ideas in AI only new datasets</div>
                                 <div class="date">30 Jun 2025</div>
                             </div>
                         </div>
@@ -49,6 +40,15 @@
                             <div class="infos">
                                 <div class="title">The new skill in AI is not prompting, it's context engineering</div>
                                 <div class="date">30 Jun 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Nimtable: Open-source web UI to browse and manage Apache Iceberg tables</div>
+                                <div class="date">1 Jul 2025</div>
                             </div>
                         </div>
                     </section>

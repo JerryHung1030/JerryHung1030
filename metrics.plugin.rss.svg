@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I scanned all of GitHub's "oops commits" for leaked secrets</div>
-                                <div class="date">3 Jul 2025</div>
+                                <div class="title">Writing Code Was Never the Bottleneck</div>
+                                <div class="date">1 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Next month, saved passwords will no longer be in Microsoft’s Authenticator app</div>
-                                <div class="date">30 Jun 2025</div>
+                                <div class="title">Building Linux kernel on macOS natively</div>
+                                <div class="date">3 Jul 2025</div>
                             </div>
                         </div>
                     </section>

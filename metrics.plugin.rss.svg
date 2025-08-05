@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Projects evaluated to see if they're as free and open source as advertised</div>
+                                <div class="title">Show HN: I spent 6 years building a ridiculous wooden pixel display</div>
                                 <div class="date">4 Aug 2025</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I spent 6 years building a ridiculous wooden pixel display</div>
+                                <div class="title">Show HN: I've been building an ERP for manufacturing for the last 3 years</div>
                                 <div class="date">4 Aug 2025</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">EconTeen – Financial Literacy Lessons and Tools for Teens</div>
+                                <div class="title">How we made JSON.stringify more than twice as fast</div>
                                 <div class="date">4 Aug 2025</div>
                             </div>
                         </div>

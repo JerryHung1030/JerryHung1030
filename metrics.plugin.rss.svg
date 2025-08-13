@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ashet Home Computer</div>
-                                <div class="date">12 Aug 2025</div>
+                                <div class="title">F-Droid build servers can't build modern Android apps due to outdated CPUs</div>
+                                <div class="date">13 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Building a web search engine from scratch with 3B neural embeddings</div>
-                                <div class="date">12 Aug 2025</div>
+                                <div class="title">Fennel libraries as single files (2023)</div>
+                                <div class="date">13 Aug 2025</div>
                             </div>
                         </div>
                     </section>

@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Lessons learned from building a sync-engine and reactivity system with SQLite</div>
+                                <div class="title">Why LinkedIn Rewards Mediocrity</div>
                                 <div class="date">17 Aug 2025</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Eliminating JavaScript cold starts on AWS Lambda</div>
-                                <div class="date">16 Aug 2025</div>
+                                <div class="title">Faster Index I/O with NVMe SSDs</div>
+                                <div class="date">17 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">SuperSight: A graphical enhancement mod for Brøderbund's "Stunts"</div>
-                                <div class="date">13 Aug 2025</div>
+                                <div class="title">BBC Micro: The Ancestor to a Device You Are Guaranteed to Own</div>
+                                <div class="date">17 Aug 2025</div>
                             </div>
                         </div>
                     </section>

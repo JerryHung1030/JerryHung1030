@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Without the Futex, It's Futile</div>
+                                <div class="title">How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos</div>
                                 <div class="date">19 Aug 2025</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Custom telescope mount using harmonic drives and ESP32</div>
+                                <div class="title">Emacs as your video-trimming tool</div>
                                 <div class="date">19 Aug 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Critical Cache Poisoning Vulnerability in Dnsmasq</div>
+                                <div class="title">Without the futex, it's futile</div>
                                 <div class="date">19 Aug 2025</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Launch HN: Uplift (YC S25) – Voice models for under-served languages</div>
-                                <div class="date">19 Aug 2025</div>
+                                <div class="title">Candle Flame Oscillations as a Clock</div>
+                                <div class="date">16 Aug 2025</div>
                             </div>
                         </div>
                     </section>

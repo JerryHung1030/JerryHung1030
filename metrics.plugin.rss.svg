@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Next.js Is Infuriating</div>
+                                <div class="title">Show HN: Moribito – A TUI for LDAP Viewing/Queries</div>
                                 <div class="date">2 Sept 2025</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Collecting All Causal Knowledge</div>
-                                <div class="date">2 Sept 2025</div>
+                                <div class="title">Memory is slow, Disk is fast – Part 1</div>
+                                <div class="date">29 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Europol said ChatControl doesn't go far enough; they want to retain data forever</div>
-                                <div class="date">2 Sept 2025</div>
+                                <div class="title">Quirks of Common Lisp Types</div>
+                                <div class="date">31 Aug 2025</div>
                             </div>
                         </div>
                     </section>

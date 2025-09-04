@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Almost anything you give sustained attention to will begin to loop on itself</div>
+                                <div class="title">Stripe Launches L1 Blockchain: Tempo</div>
                                 <div class="date">4 Sept 2025</div>
                             </div>
                         </div>
@@ -29,7 +29,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Le Chat. Custom MCP Connectors. Memories</div>
+                                <div class="title">Launch HN: Slashy (YC S25) – AI that connects to apps and does tasks</div>
+                                <div class="date">4 Sept 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Le Chat: Custom MCP Connectors, Memories</div>
                                 <div class="date">4 Sept 2025</div>
                             </div>
                         </div>
@@ -40,15 +49,6 @@
                             <div class="infos">
                                 <div class="title">30 minutes with a stranger</div>
                                 <div class="date">4 Sept 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">The Hand-Drawn Hits That Hollywood Isn't Making</div>
-                                <div class="date">1 Sept 2025</div>
                             </div>
                         </div>
                     </section>

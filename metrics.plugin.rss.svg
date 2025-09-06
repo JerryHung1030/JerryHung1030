@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Speeding up Unreal Editor launch by not spawning 38000 tooltips</div>
+                                <div class="title">Speeding up Unreal Editor launch by not spawning unused tooltips</div>
                                 <div class="date">3 Sept 2025</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Developing a Space Flight Simulator in Clojure</div>
-                                <div class="date">6 Sept 2025</div>
+                                <div class="title">Video Game Blurs (and how the best one works)</div>
+                                <div class="date">3 Sept 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GLM 4.5 with Claude Code</div>
+                                <div class="title">Rug pulls, forks, and open-source feudalism</div>
                                 <div class="date">6 Sept 2025</div>
                             </div>
                         </div>

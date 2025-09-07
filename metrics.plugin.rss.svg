@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Utah's hottest new power source is 15,000 feet below the ground</div>
+                                <div class="title">Utah's hottest new power source is 15k feet below the ground</div>
                                 <div class="date">6 Sept 2025</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Anonymous Recursive Functions in Racket</div>
-                                <div class="date">4 Sept 2025</div>
+                                <div class="title">A Navajo weaving of an integrated circuit: the 555 timer</div>
+                                <div class="date">6 Sept 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Oldest recorded transaction</div>
+                                <div class="title">Shipping textures as PNGs is suboptimal</div>
                                 <div class="date">6 Sept 2025</div>
                             </div>
                         </div>

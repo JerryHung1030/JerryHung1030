@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Float Exposed</div>
+                                <div class="title">Astrophysics Source Code Library</div>
                                 <div class="date">12 Sept 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Debian 13, Postgres, and the US time zones</div>
+                                <div class="title">Examples from The LaTeX Companion book (3rd edition)</div>
                                 <div class="date">12 Sept 2025</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Top model scores may be skewed by Git history leaks in SWE-bench</div>
-                                <div class="date">11 Sept 2025</div>
+                                <div class="title">Becoming the person who does the thing</div>
+                                <div class="date">12 Sept 2025</div>
                             </div>
                         </div>
                     </section>

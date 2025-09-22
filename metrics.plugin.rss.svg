@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Dear GitHub: no YAML anchors, please</div>
+                                <div class="title">OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems</div>
                                 <div class="date">22 Sept 2025</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Easy Forth</div>
+                                <div class="title">PlanetScale for Postgres is now GA</div>
                                 <div class="date">22 Sept 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CompileBench: Can AI Compile 22-year-old Code?</div>
+                                <div class="title">SWE-Bench Pro</div>
                                 <div class="date">22 Sept 2025</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What is algebraic about algebraic effects?</div>
-                                <div class="date">22 Sept 2025</div>
+                                <div class="title">The Beginner's Textbook for Fully Homomorphic Encryption</div>
+                                <div class="date">21 Sept 2025</div>
                             </div>
                         </div>
                     </section>

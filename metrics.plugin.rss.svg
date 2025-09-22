@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems</div>
+                                <div class="title">Qwen3-Omni: Native Omni AI model for text, image and video</div>
                                 <div class="date">22 Sept 2025</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">PlanetScale for Postgres is now GA</div>
+                                <div class="title">Choose Your Own Adventure</div>
                                 <div class="date">22 Sept 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">SWE-Bench Pro</div>
+                                <div class="title">Fine-grained HTTP filtering for Claude Code</div>
                                 <div class="date">22 Sept 2025</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Beginner's Textbook for Fully Homomorphic Encryption</div>
-                                <div class="date">21 Sept 2025</div>
+                                <div class="title">Cap'n Web: a new RPC system for browsers and web servers</div>
+                                <div class="date">22 Sept 2025</div>
                             </div>
                         </div>
                     </section>

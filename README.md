@@ -6,8 +6,7 @@
   # Hi there, I'm Chieh-Lee Hung 👋 🇹🇼🇳🇱
 
   💼 **Software Developer**  
-  With 4 years of software development experience, I am currently pursuing my MSc in Computer Science & Engineering at TU/e.
-
+  With 4 years of software development experience, I am an MSc student at TU Eindhoven, passionate about designing intelligent and scalable systems.
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
     <div style="width: 50%; text-align: left; font-weight: bold;">
       📫 Let's Connect:

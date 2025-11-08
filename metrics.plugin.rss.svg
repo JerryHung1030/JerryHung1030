@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why is Zig so Cool?</div>
+                                <div class="title">Why is Zig so cool?</div>
                                 <div class="date">7 Nov 2025</div>
                             </div>
                         </div>
@@ -29,17 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Myna: Monospace typeface designed for symbol-heavy programming languages</div>
-                                <div class="date">7 Nov 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">How did I get here?</div>
-                                <div class="date">7 Nov 2025</div>
+                                <div class="title">Snapchat open-sources Valdi a cross-platform UI framework</div>
+                                <div class="date">8 Nov 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -49,6 +40,15 @@
                             <div class="infos">
                                 <div class="title">Becoming a Compiler Engineer</div>
                                 <div class="date">7 Nov 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Mullvad: Shutting down our search proxy Leta</div>
+                                <div class="date">8 Nov 2025</div>
                             </div>
                         </div>
                     </section>

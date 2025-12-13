@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">We built another object storage</div>
+                                <div class="title">I tried Gleam for Advent of Code</div>
                                 <div class="date">13 Dec 2025</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How exchanges turn order books into distributed logs</div>
-                                <div class="date">8 Dec 2025</div>
+                                <div class="title">What is the nicest thing a stranger has ever done for you?</div>
+                                <div class="date">11 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt</div>
-                                <div class="date">12 Dec 2025</div>
+                                <div class="title">Cryptids</div>
+                                <div class="date">6 Dec 2025</div>
                             </div>
                         </div>
                     </section>

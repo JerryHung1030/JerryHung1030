@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: CineCLI – Browse and torrent movies directly from your terminal</div>
+                                <div class="title">Test, Don't (Just) Verify</div>
                                 <div class="date">23 Dec 2025</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Carnap – A formal logic framework for Haskell</div>
-                                <div class="date">23 Dec 2025</div>
+                                <div class="title">Executorch: On-device AI across mobile, embedded and edge for PyTorch</div>
+                                <div class="date">18 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Snitch – A friendlier ss/netstat</div>
+                                <div class="title">Instant database clones with PostgreSQL 18</div>
                                 <div class="date">23 Dec 2025</div>
                             </div>
                         </div>

@@ -12,7 +12,7 @@
       📫 Let's Connect:
     </div>
     <div style="width: 50%; text-align: right; display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-end;">
-      <a href="https://www.linkedin.com/in/chiehlee-hung-79b44a197" target="_blank">
+      <a href="https://www.linkedin.com/in/chieh-lee-hung-79b44a197" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-Chieh--Lee%20Hung-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
       <a href="mailto:chiehlee.hung@gmail.com">

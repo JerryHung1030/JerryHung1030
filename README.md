@@ -36,17 +36,6 @@
          style="vertical-align: top; margin-right: 10px;" />
   </div>
 
-  <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JerryHung1030&layout=compact&langs_count=20&exclude_repo=Reinforcement-learning-with-virtual-simulation&theme=dark"
-         alt="Top Languages" 
-         height="180"
-         style="vertical-align: top; margin-right: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=JerryHung1030&theme=dark&show_icons=true"
-         alt="GitHub Stats"
-         height="180"
-         style="vertical-align: top;" />
-  </div>
-
   ---
 
   <sub>Infographics generated using [lowlighter/metrics](https://github.com/lowlighter/metrics) and [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)</sub>

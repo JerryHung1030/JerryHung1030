@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why I Left iNaturalist</div>
+                                <div class="title">Why I left iNaturalist</div>
                                 <div class="date">9 Jan 2026</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Embassy: Modern embedded framework, using Rust and async</div>
-                                <div class="date">8 Jan 2026</div>
+                                <div class="title">The No Fakes Act Has a "Fingerprinting" Trap That Kills Open Source</div>
+                                <div class="date">9 Jan 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU</div>
-                                <div class="date">8 Jan 2026</div>
+                                <div class="title">Anthropic blocks third-party use of Claude Code subscriptions</div>
+                                <div class="date">9 Jan 2026</div>
                             </div>
                         </div>
                     </section>

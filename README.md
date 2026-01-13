@@ -27,11 +27,11 @@
   📊 **GitHub Metrics (Public Repos Only)**
 
   <div align="left">
-    <img src="https://raw.githubusercontent.com/JerryHung1030/JerryHung1030/main/metrics.terminal.svg" 
+    <img src="https://raw.githubusercontent.com/chieh-lee-hung/chieh-lee-hung/main/metrics.terminal.svg" 
          alt="Terminal Template" 
          width="375" 
          style="vertical-align: top;" />
-    <img src="https://raw.githubusercontent.com/JerryHung1030/JerryHung1030/main/metrics.plugin.isocalendar.svg" 
+    <img src="https://raw.githubusercontent.com/chieh-lee-hung/chieh-lee-hung/main/metrics.plugin.isocalendar.svg" 
          alt="Commit Calendar" 
          width="375" 
          style="vertical-align: top; margin-right: 10px;" />

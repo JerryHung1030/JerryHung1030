@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A 40-Line Fix Eliminated a 400x Performance Gap</div>
+                                <div class="title">A 40-line fix eliminated a 400x performance gap</div>
                                 <div class="date">13 Jan 2026</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">EOL hardware should mean open-source software</div>
+                                <div class="title">Every GitHub object has two IDs</div>
                                 <div class="date">13 Jan 2026</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Are two heads better than one?</div>
-                                <div class="date">13 Jan 2026</div>
+                                <div class="title">ASCII Clouds</div>
+                                <div class="date">14 Jan 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Tulip Creative Computer</div>
+                                <div class="title">vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep</div>
                                 <div class="date">13 Jan 2026</div>
                             </div>
                         </div>

@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CVEs affecting the Svelte ecosystem</div>
+                                <div class="title">Pocket TTS: A high quality TTS that gives your CPU a voice</div>
                                 <div class="date">15 Jan 2026</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">JuiceFS is a distributed POSIX file system built on top of Redis and S3</div>
+                                <div class="title">AWS European Sovereign Cloud</div>
                                 <div class="date">15 Jan 2026</div>
                             </div>
                         </div>

@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN posts p/month more than doubled in the last year</div>
+                                <div class="title">Porting 100k lines from TypeScript to Rust using Claude Code in a month</div>
                                 <div class="date">26 Jan 2026</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Holy Grail of Linux Binary Compatibility: Musl and Dlopen</div>
+                                <div class="title">After two years of vibecoding, I'm back to writing by hand</div>
                                 <div class="date">26 Jan 2026</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Things I've learned in my 10 years as an engineering manager</div>
-                                <div class="date">21 Jan 2026</div>
+                                <div class="title">Apple introduces new AirTag with longer range and improved findability</div>
+                                <div class="date">26 Jan 2026</div>
                             </div>
                         </div>
                     </section>
